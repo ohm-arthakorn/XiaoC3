@@ -73,7 +73,7 @@ unsigned long testText() {
   tft.println("Or I will rend thee");
   tft.println("in the gobberwarts");
   tft.println("with my blurglecruncheon,");
-  tft.println("see if I don't!");
+  tft.println("see if I don't");
   return micros() - start;
 }
 
